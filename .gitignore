@@ -10,3 +10,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 build
+.vs
+output.csv
+.vscode
+first_test
+/extern/ips4o
